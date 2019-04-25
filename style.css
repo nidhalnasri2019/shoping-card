@@ -1,0 +1,140 @@
+#p1{
+width: 28%;
+text-align: center;
+}
+
+#q1{
+    width: 28%;
+    text-align: center;
+    }
+ #q2{
+    width: 28%;
+    text-align: center;
+    }
+#p2{
+    width: 28%;
+    text-align: center;
+        }
+        #q3{
+            width: 28%;
+            text-align: center;
+            }
+        #p3{
+            width: 28%;
+            text-align: center;
+                }
+
+    #tot{
+        width: 5%;
+        text-align: center;
+        color: red;
+        font-weight: bold;
+        
+    }
+    input#p1 {
+        border: 0px;
+        color: blue;
+        font-weight: bold;
+    }
+    input#p2 {
+        border: 0px;
+        color: blue;
+        font-weight: bold;
+    }
+    input#p3 {
+        border: 0px;
+        color: blue;
+        font-weight: bold;
+    }
+    input#q1 {
+        border: 0px;
+    }
+    input#q2 {
+        border: 0px;
+    }
+    input#q3 {
+        border: 0px;
+    }
+    div#par4 {
+        margin-top: 37px;
+    }
+    div#par5 {
+        margin-top: 37px;
+    }
+    div#par15 {
+        margin-top: 37px;
+    }
+    div#par16 {
+        margin-top: 37px;
+    }
+    div#par19 {
+        margin-top: 33px;
+    }
+    div#par20 {
+        margin-top: 32px;
+    }
+    div#container {
+        width: 84%;
+        margin-left: 108px;
+    }
+    html body {
+        background-color: #71e471;
+    }
+#par{
+    margin-top: 7%;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 30px;
+    background-color: white;
+}
+img.img2 {
+    width: 17px;
+}
+
+img.img1 {
+    width: 17px;
+}
+img.img3 {
+    width: 88px;
+    height: 87px;
+}
+
+div#par1 {
+    text-align: center;
+    margin-top: 26px;
+}
+
+div#par12 {
+    text-align: center;
+    margin-top: 26px;
+}
+div#par17 {
+    text-align: center;
+    margin-top: 26px;
+}
+
+input#btnplus {
+    width: 27px;
+    text-align: center;
+}
+input#btnmoin {
+    width: 27px;
+    text-align: center;
+}
+
+#prix1 , #prix2 , #prix3{
+    color: red;
+    font-size: 13px;
+    font-weight: bold;
+}
+#lab{
+    color: red;
+    font-weight: bold;
+}
+#labp{
+    color: blue;
+    font-weight: bold;
+}
+
+    
+
